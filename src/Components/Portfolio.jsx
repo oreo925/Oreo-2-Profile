@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/cupntable.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "GUI Python Based C++ Compiler",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A complete Python Coded C++ Compiler including Lexing, Parsing, Analyzing and ASKII generator",
+    url: "https://github.com/oreo925/C-Compiler-Python-Based-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CPU Scheduling Algorithm Test",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A C++ based CPU Scheduling Algorithm Test to test the response time of various Algorithm under one roof",
+    url: "https://github.com/oreo925/CPU-Scheduling-Algorithm-Tester-C-",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created from Github Codespaces, Hosted on Github Static Web Apps",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "C++ based Postal Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A complete detailed and fully functional Postal Management System",
+    url: "https://github.com/oreo925/Postal-Management-System-C-",
+  },
+  {
+    title: "Projects achieved as IEEE SB Chair",
+    description:
+      "As a chair of IEEE Student Branch, I was involved in achieveing Prominent and Extremely Impactful events in my community",
+    url: "https://www.instagram.com/_ieeenumlrwp?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA==",
+  },
+  {
+    title: "C Based Spell Checker usign Hash",
+    description:
+      "By using Hash Map convulance and file handeling concepts this project is able to depict and identify misspelled words",
+    url: "https://github.com/oreo925/Spell-Checker-Hash-Ca-",
   },
 ];
 
