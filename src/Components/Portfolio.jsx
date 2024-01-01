@@ -43,12 +43,6 @@ const projectList = [
     url: "https://github.com/oreo925/CPU-Scheduling-Algorithm-Tester-C-",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Github Codespaces, Hosted on Github Static Web Apps",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
     title: "C++ based Postal Management System",
     description:
       "A complete detailed and fully functional Postal Management System",
